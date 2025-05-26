@@ -6,8 +6,8 @@ from collections import defaultdict
 import time
 
 # 🔐 API keys
-TELEGRAM_BOT_TOKEN = "7737877253:AAFnVHIQmAkpYR_UNp1G64bs_A-bCvllL_Y"
-GOOGLE_PLACES_API_KEY = "AIzaSyCbz2sFmdMH0ziSm8Agj9ofK9SAZFXa30Q"
+TELEGRAM_BOT_TOKEN = ""
+GOOGLE_PLACES_API_KEY = ""
 
 # 🧠 Cache
 cache = defaultdict(lambda: (0, []))
